@@ -1,0 +1,16 @@
+Name: Divya Ladwa
+B#: B00594267
+
+Name: Ankit Mahale
+B#: B00594269
+
+This folder contains:
+1. systime.c: System call to print time in nanoseconds.
+2. divbyzero.c: System call that contains division by zero.
+3. libfunc.c: System call that contains c library routine.
+4. deref.c: System call that contains dereferencing null pointer.
+5. own.c: System call that contains code to find factorial of a number without base condition which hangs the system.
+6. retincorrect.c: System call that returns a string with integer return value.
+7. Makefile
+8. syscall_64.tbl 
+9. call_systime.c,call_divbyzero.c, call_libfunc.c, call_deref.c, call_own.c, call_retincorrect.c: User lever program to make a system Cal.  
